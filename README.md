@@ -62,44 +62,54 @@
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_1_2024-11-29_21-37-00.jpg" width="200" alt="Photo 1">
         <br>
+        <sub><b>Galle Musical Show</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_2_2024-11-29_21-37-00.jpg" width="200" alt="Photo 2">
         <br>
+        <sub><b>Welcome Party University of Colombo</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_3_2024-11-29_21-37-00.jpg" width="200" alt="Photo 3">
         <br>
+        <sub><b>Yuthukama Attack Show</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_4_2024-11-29_21-37-00.jpg" width="200" alt="Photo 4">
         <br>
+        <sub><b>Sundown Live in Concert</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_5_2024-11-29_21-37-00.jpg" width="200" alt="Photo 5">
         <br>
+        <sub><b>Lengathukama Live in Concert</b></sub>
       </td>
     </tr>
     <tr>  
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_6_2024-11-29_21-37-00.jpg" width="200" alt="Photo 6">
         <br>
+        <sub><b>Sundown Live in Concert</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_7_2024-11-29_21-37-00.jpg" width="200" alt="Photo 7">
         <br>
+        <sub><b>Galle Musical Show</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_8_2024-11-29_21-37-00.jpg" width="200" alt="Photo 8">
         <br>
+        <sub><b>Fantasy Mela Carnival</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_9_2024-11-29_21-37-00.jpg" width="200" alt="Photo 9">
         <br>
+        <sub><b>NaadaNu' Live in Concert</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_10_2024-11-29_21-37-00.jpg" width="200" alt="Photo 10">
         <br>
+        <sub><b>Kottawa Musical Show</b></sub>
       </td>
     </tr>
   </table>
