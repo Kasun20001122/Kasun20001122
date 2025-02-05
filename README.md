@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Statistics and Computer Science**
+- 🌱 I’m currently learning **Bachelor of Science (Statistics and Computer Science) Degree**
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Colombo Faculty of Science**
 
@@ -14,11 +14,52 @@
 
 - 📫 How to reach me **kasunchandimabandara@gmail.com**
 
-- 📚 Skills : **Power BI, Power Apps, Excel, Tableau, Python, Machine Learning, Deep Learning, R Programming, Seaborn, Data Visualization, Statistics, SQL, HTML, CSS, Pandas, Numpy, Data Cleaning, Data Science, MatplotLib, Problem Solving, Public Speaking & Stage Presence, Teamwork, Creativity, Time Management**
-
 </td>
 </tr>
 </table>
+
+<h2 align="center">🎯Skills</h2>
+
+<table align="center">
+  <tr>
+    <th>💻 Data & Visualization Tools</th>
+    <th>📊 Programming & Libraries</th>
+    <th>🛠️ Soft Skills</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>Power BI<br>
+      <br>Power Apps<br>
+      <br>Excel<br>
+      <br>Tableau<br>
+      <br>Statistics<br>
+      <br>Data Cleaning<br>
+      <br>Data Science<br>
+      <br>Data Visualization<br>
+    </td>
+    <td align="center">
+      <br>Python<br>
+      <br>Machine Learning<br>
+      <br>Deep Learning<br>
+      <br>R Programming<br>
+      <br>SQL<br>
+      <br>HTML<br>
+      <br>CSS<br>
+      <br>Seaborn<br>
+      <br>Pandas<br>
+      <br>Numpy<br>
+      <br>MatplotLib<br>
+    </td>
+    <td align="center">
+      🎤 Public Speaking & Stage Presence <br><br>
+      🤝 Teamwork <br><br>
+      🎨 Creativity <br><br>
+      ⏱️ Time Management <br><br>
+      🧠 Problem Solving <br><br>
+    </td>
+  </tr>
+</table>
+
 
 #
 
@@ -62,54 +103,54 @@
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_1_2024-11-29_21-37-00.jpg" width="200" alt="Photo 1">
         <br>
-        <sub><b>Galle Musical Show</b></sub>
+        <sub><b>📌Galle Musical Show</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_2_2024-11-29_21-37-00.jpg" width="200" alt="Photo 2">
         <br>
-        <sub><b>Welcome Party University of Colombo</b></sub>
+        <sub><b>📌Welcome Party University of Colombo</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_3_2024-11-29_21-37-00.jpg" width="200" alt="Photo 3">
         <br>
-        <sub><b>Yuthukama Attack Show</b></sub>
+        <sub><b>📌Yuthukama Attack Show</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_4_2024-11-29_21-37-00.jpg" width="200" alt="Photo 4">
         <br>
-        <sub><b>Sundown Live in Concert</b></sub>
+        <sub><b>📌Sundown Live in Concert</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_5_2024-11-29_21-37-00.jpg" width="200" alt="Photo 5">
         <br>
-        <sub><b>Lengathukama Live in Concert</b></sub>
+        <sub><b>📌Lengathukama Live in Concert</b></sub>
       </td>
     </tr>
     <tr>  
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_6_2024-11-29_21-37-00.jpg" width="200" alt="Photo 6">
         <br>
-        <sub><b>Sundown Live in Concert</b></sub>
+        <sub><b>📌Sundown Live in Concert</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_7_2024-11-29_21-37-00.jpg" width="200" alt="Photo 7">
         <br>
-        <sub><b>Galle Musical Show</b></sub>
+        <sub><b>📌Galle Musical Show</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_8_2024-11-29_21-37-00.jpg" width="200" alt="Photo 8">
         <br>
-        <sub><b>Fantasy Mela Carnival</b></sub>
+        <sub><b>📌Fantasy Mela Carnival</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_9_2024-11-29_21-37-00.jpg" width="200" alt="Photo 9">
         <br>
-        <sub><b>NaadaNu' Live in Concert</b></sub>
+        <sub><b>📌NaadaNu' Live in Concert</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_10_2024-11-29_21-37-00.jpg" width="200" alt="Photo 10">
         <br>
-        <sub><b>Kottawa Musical Show</b></sub>
+        <sub><b>📌Kottawa Musical Show</b></sub>
       </td>
     </tr>
   </table>
