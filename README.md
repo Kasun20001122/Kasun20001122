@@ -55,7 +55,7 @@
 <p align="center"><a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/excel.png" alt="excel" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/powerapps.jpg" alt="powerapps" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/powerbi_sticker_adesivo-800x800.jpg" alt="powerbi" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/tableau.png" alt="tableau" width="50" height="50"/></a></p>
 
 #
-<h1 align="center">My Music Journey 🎵</h1>
+<h1 align="center">My Music Journey 🎤</h1>
 <div align="center">
   <table>
     <tr>
