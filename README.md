@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Colombo Faculty of Science**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **kasunchandimabandara@gmail.com**
 
