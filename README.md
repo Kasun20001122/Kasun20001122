@@ -101,6 +101,11 @@
   <table>
     <tr>
       <td align="center">
+        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/Picsart_25-02-09_16-30-50-481.jpg" width="200" alt="Photo 11">
+        <br>
+        <sub><b>📌Recording a new song at Infinity Studios</b></sub>
+      </td>
+      <td align="center">
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_1_2024-11-29_21-37-00.jpg" width="200" alt="Photo 1">
         <br>
         <sub><b>📌Galle Musical Show</b></sub>
@@ -119,12 +124,6 @@
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_4_2024-11-29_21-37-00.jpg" width="200" alt="Photo 4">
         <br>
         <sub><b>📌Sundown Live in Concert</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_5_2024-11-29_21-37-00.jpg" width="200" alt="Photo 5">
-        <br>
-        <sub><b>📌Lengathukama Live in Concert</b></sub>
-      </td>
     </tr>
     <tr>  
       <td align="center">
@@ -151,6 +150,14 @@
         <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_10_2024-11-29_21-37-00.jpg" width="200" alt="Photo 10">
         <br>
         <sub><b>📌Kottawa Musical Show</b></sub>
+      </td>
+    </tr>
+    <tr>  
+      </td>
+      <td align="center">
+        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_5_2024-11-29_21-37-00.jpg" width="200" alt="Photo 5">
+        <br>
+        <sub><b>📌Lengathukama Live in Concert</b></sub>
       </td>
     </tr>
   </table>
