@@ -51,11 +51,11 @@
       <br>MatplotLib<br>
     </td>
     <td align="center">
-      🎤 Public Speaking & Stage Presence <br><br>
-      🤝 Teamwork <br><br>
-      🎨 Creativity <br><br>
-      ⏱️ Time Management <br><br>
-      🧠 Problem Solving <br><br>
+      Public Speaking & Stage Presence <br><br>
+      Teamwork <br><br>
+      Creativity <br><br>
+      Time Management <br><br>
+      Problem Solving <br><br>
     </td>
   </tr>
 </table>
