@@ -1,164 +1,121 @@
-<h1 align="center">Hi 👋, I'm Kasun Chandima</h1>
-<h3 align="center">Passionate Data Science | Data Analysis | Data Analytics | Data Engineering</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kasun20001122&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<div align="center">
+  <h1>Hi 👋, I'm Kasun Chandima</h1>
+  <h3>Associate Data and AI Engineer | Vocalist</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Kasun20001122&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Bachelor of Science (Statistics and Computer Science) Degree**
+---
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Colombo Faculty of Science**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **Data**
+* 🌱 I’m currently completing my **BSc (Statistics and Computer Science)** at the **University of Colombo**.
+* 💼 I work in **Data & AI Engineering**, focusing on workflow automation, analytics, and data visualization.
+* 🎤 I am also a professional **Vocalist**, performing live and recording music.
+* 📫 Reach out to me: **[kasunchandimabandara@gmail.com](mailto:kasunchandimabandara@gmail.com)**
 
-- 📫 How to reach me **kasunchandimabandara@gmail.com**
+---
 
-</td>
-</tr>
-</table>
+### 🛠️ Tech Stack & Skills
 
-<h2 align="center">🎯Skills</h2>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,sql,html,css,github,mysql,php&perline=8" alt="My Skills" />
+  </a>
+  <br><br>
+  <p>
+    <b>Data & Visualization:</b> Power BI • Power Apps • Tableau • Excel • Pandas • NumPy • Matplotlib • Seaborn<br>
+    <b>Core Skills:</b> Machine Learning • Deep Learning • Statistics • Data Cleaning<br>
+    <b>Soft Skills:</b> Public Speaking & Stage Presence • Time Management • Problem Solving • Creativity
+  </p>
+</div>
 
-<table align="center">
-  <tr>
-    <th>💻 Data & Visualization Tools</th>
-    <th>📊 Programming & Libraries</th>
-    <th>🛠️ Soft Skills</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <br>Power BI<br>
-      <br>Power Apps<br>
-      <br>Excel<br>
-      <br>Tableau<br>
-      <br>Statistics<br>
-      <br>Data Cleaning<br>
-      <br>Data Science<br>
-      <br>Data Visualization<br>
-    </td>
-    <td align="center">
-      <br>Python<br>
-      <br>Machine Learning<br>
-      <br>Deep Learning<br>
-      <br>R Programming<br>
-      <br>SQL<br>
-      <br>HTML<br>
-      <br>CSS<br>
-      <br>Seaborn<br>
-      <br>Pandas<br>
-      <br>Numpy<br>
-      <br>MatplotLib<br>
-    </td>
-    <td align="center">
-      Public Speaking & Stage Presence <br><br>
-      Teamwork <br><br>
-      Creativity <br><br>
-      Time Management <br><br>
-      Problem Solving <br><br>
-    </td>
-  </tr>
-</table>
+---
 
+### 📊 GitHub Analytics
 
-#
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kasun20001122&theme=transparent&hide_border=true&show_icons=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kasun20001122&theme=transparent&hide_border=true&no-bg=true&langs_count=6&layout=compact" width="48%" alt="Top Languages" />
+</div>
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kasun20001122&theme=dark&show_icons=true&count_private=true" />
-  <br></br></td>
-<td width="50%" align="center">
+---
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kasun20001122&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+### 🌐 Let's Connect
 
-#
+<div align="center">
+  <a href="https://www.linkedin.com/in/kasun-chandima-b8960130b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@KasunChandimaOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.facebook.com/share/14tCAL7Dgw/?mibextid=qi2Omg" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
-<h3 align="center">Connect with me :</h3>
-<p align="center"><a href="https://www.youtube.com/@KasunChandimaOfficial" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kasunchandima" height="50" width="50" /></a> <a href="https://www.linkedin.com/in/kasun-chandima-b8960130b/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kasunchandima" height="50" width="50" /></a> <a href="https://www.facebook.com/share/14tCAL7Dgw/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasunchandima" height="50" width="50" /></a>
-</p>
+---
 
-#
+<h3 align="center">🎤 My Music Journey</h3>
+<p align="center"><i>Balancing the world of Data with the rhythm of Music.</i></p>
 
-<h3 align="center">Languages and Tools :</h3>
-<p align="center"><a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/css.png" alt="css3" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/html.png" alt="html5" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/mysql.png" alt="mysql" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/php.png" alt="php" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/R.png" alt="r" width="50" height="50"/></a></p>
-
-#
-
-<h3 align="center">Data Visualization Tools :</h3>
-<p align="center"><a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/excel.png" alt="excel" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/powerapps.jpg" alt="powerapps" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/powerbi_sticker_adesivo-800x800.jpg" alt="powerbi" width="50" height="50"/></a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/Kasun20001122/test/blob/main/logos/tableau.png" alt="tableau" width="50" height="50"/></a></p>
-
-#
-<h1 align="center">My Music Journey 🎤</h1>
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/Picsart_25-02-09_16-30-50-481.jpg" width="200" alt="Photo 11">
-        <br>
-        <sub><b>📌Recording a new song at Infinity Studios</b></sub>
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/Picsart_25-02-09_16-30-50-481.jpg" width="250" alt="Infinity Studios"><br>
+        <sub><b>📌 Infinity Studios</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_1_2024-11-29_21-37-00.jpg" width="200" alt="Photo 1">
-        <br>
-        <sub><b>📌Galle Musical Show</b></sub>
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_1_2024-11-29_21-37-00.jpg" width="250" alt="Galle Musical Show"><br>
+        <sub><b>📌 Galle Musical Show</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_2_2024-11-29_21-37-00.jpg" width="200" alt="Photo 2">
-        <br>
-        <sub><b>📌Welcome Party University of Colombo</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_3_2024-11-29_21-37-00.jpg" width="200" alt="Photo 3">
-        <br>
-        <sub><b>📌Yuthukama Attack Show</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_4_2024-11-29_21-37-00.jpg" width="200" alt="Photo 4">
-        <br>
-        <sub><b>📌Sundown Live in Concert</b></sub>
-    </tr>
-    <tr>  
-      <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_6_2024-11-29_21-37-00.jpg" width="200" alt="Photo 6">
-        <br>
-        <sub><b>📌Sundown Live in Concert</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_7_2024-11-29_21-37-00.jpg" width="200" alt="Photo 7">
-        <br>
-        <sub><b>📌Galle Musical Show</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_8_2024-11-29_21-37-00.jpg" width="200" alt="Photo 8">
-        <br>
-        <sub><b>📌Fantasy Mela Carnival</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_9_2024-11-29_21-37-00.jpg" width="200" alt="Photo 9">
-        <br>
-        <sub><b>📌NaadaNu' Live in Concert</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_10_2024-11-29_21-37-00.jpg" width="200" alt="Photo 10">
-        <br>
-        <sub><b>📌Kottawa Musical Show</b></sub>
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_2_2024-11-29_21-37-00.jpg" width="250" alt="Welcome Party UoC"><br>
+        <sub><b>📌 UoC Welcome Party</b></sub>
       </td>
     </tr>
-    <tr>  
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_3_2024-11-29_21-37-00.jpg" width="250" alt="Yuthukama Attack Show"><br>
+        <sub><b>📌 Yuthukama Attack Show</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/Kasun20001122/test/blob/main/myphotos/photo_5_2024-11-29_21-37-00.jpg" width="200" alt="Photo 5">
-        <br>
-        <sub><b>📌Lengathukama Live in Concert</b></sub>
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_4_2024-11-29_21-37-00.jpg" width="250" alt="Sundown Live"><br>
+        <sub><b>📌 Sundown Live</b></sub>
       </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_6_2024-11-29_21-37-00.jpg" width="250" alt="Sundown Live"><br>
+        <sub><b>📌 Sundown Live</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_7_2024-11-29_21-37-00.jpg" width="250" alt="Galle Musical Show"><br>
+        <sub><b>📌 Galle Musical Show</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_8_2024-11-29_21-37-00.jpg" width="250" alt="Fantasy Mela Carnival"><br>
+        <sub><b>📌 Fantasy Mela Carnival</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_9_2024-11-29_21-37-00.jpg" width="250" alt="NaadaNu' Live"><br>
+        <sub><b>📌 NaadaNu' Live</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_10_2024-11-29_21-37-00.jpg" width="250" alt="Kottawa Musical Show"><br>
+        <sub><b>📌 Kottawa Musical Show</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Kasun20001122/test/main/myphotos/photo_5_2024-11-29_21-37-00.jpg" width="250" alt="Lengathukama Live"><br>
+        <sub><b>📌 Lengathukama Live</b></sub>
+      </td>
+      <td align="center">
+        </td>
     </tr>
   </table>
 </div>
